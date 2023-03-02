@@ -1,1 +1,4 @@
-2023-03-01 04:14:35.818|This is log data
+2023-03-02 09:10:16.001|This is log data
+2023-03-02 09:34:08.675|http_request|ip=127.0.0.1,elapsed=10,method=GET,url=/api/user/get/test,body=,status_code=500,response=exception:name 'asyncio' is not defined
+2023-03-02 09:36:17.318|This is log data
+2023-03-02 09:36:17.319|http_request|ip=127.0.0.1,elapsed=9,method=GET,url=/api/user/get/test,body=,status_code=200,response={"status":"successful","payload":{"user":{"id":3,"last_login":"2023-02-22 01:38:39","username":"user2","first_name":"","last_name":"","email":"","is_staff":"false","is_active":"true","date_joined":"2023-02-20 08:59:53","type":2}}}

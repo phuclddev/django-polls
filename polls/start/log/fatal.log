@@ -1,1 +1,2 @@
-2023-03-01 04:14:35.819|CRITICAL|89610:123145452277760|users.py:25|users.test|This is log fatal
+2023-03-02 09:10:16.002|CRITICAL|6986:123145416929280|users.py:25|users.test|This is log fatal
+2023-03-02 09:36:17.318|CRITICAL|7460:123145552416768|users.py:26|users.test|This is log fatal

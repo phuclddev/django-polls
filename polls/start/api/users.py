@@ -14,6 +14,7 @@ from django.http import HttpResponseRedirect
 from common.logger import log
 
 
+# @log_request()
 @require_http_methods(["GET"])
 def test(request):
 # Test Logging lib
